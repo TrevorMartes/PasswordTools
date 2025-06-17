@@ -1,6 +1,7 @@
 import random
+import string 
 
-number_list = [1,2,3,4,5,6,7,8,9,10,'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+number_list = (string.ascii_letters + string.digits + string.punctuation)
 
 def user_choice():
     user_input = input('Welcome to the password generator! Pick a password length: \n 1. 8 characters \n 2. 12 characters \n 3. 16 characters\n')
