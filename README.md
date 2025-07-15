@@ -118,6 +118,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 ## 👤 Author
 
 Created by \TrevorMartes
+
 Feel free to contribute, report issues, or suggest improvements!
 
-```
+---
